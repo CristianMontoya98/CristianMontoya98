@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML5, CSS3, Java, CSharp
+   code: [Javascript, Typescript, HTML5, CSS3, Java, CSharp]
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
