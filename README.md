@@ -27,10 +27,8 @@ const aboutMe = {
          js: ["React", "Angular"],
          css: ["Bootstrap", "Sass"]
       },
-      {
       Design: {
       UI: [Figma]
-      },
       },
       backEnd: {
          java: ["java"],
