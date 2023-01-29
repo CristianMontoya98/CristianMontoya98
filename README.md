@@ -37,7 +37,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "postgreSQL"]
    },
-   currentOccupation: ["Frontend intern in Accenture Colombia"]
+   previousOccupation: ["Frontend developer at Accenture Colombia"],
+   currentOccupation: ["Software developer at ias software"]
 };
 ```
 ### Tech & Tools Preference
