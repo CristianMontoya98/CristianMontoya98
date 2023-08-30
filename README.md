@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![This is an image](https://github.com/CristianMontoya98/CristianMontoya98/blob/main/1645932623436.jpg)
+![This is an image](https://github.com/CristianMontoya98/CristianMontoya98/blob/main/Cristian%20montoya%20(1).png)
 
 ```javascript
 const aboutMe = {
