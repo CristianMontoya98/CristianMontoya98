@@ -1,5 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on a project called TENKI
+🌱 I’m currently learning Next js
 <!--
 **CristianMontoya98/CristianMontoya98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
