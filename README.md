@@ -32,7 +32,7 @@ const aboutMe = {
          css: ["Bootstrap", "Sass", "Tailwind css"]
       },
       Design: {
-      UI: [Figma]
+         UI: [Figma]
       },
       backEnd: {
          js: ["Node", "Express"],
@@ -40,6 +40,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "postgreSQL"]
    },
+   arquitectures:[clean arquitecture, atomic design]
    previousOccupation: ["Frontend developer at Accenture Colombia"],
    currentOccupation: ["Software developer at Ias Software"]
 };
