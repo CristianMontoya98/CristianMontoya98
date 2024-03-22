@@ -35,7 +35,6 @@ const aboutMe = {
       UI: [Figma]
       },
       backEnd: {
-         java: ["java"],
          js: ["Node", "Express"],
          csharp: ["Unity"]
       },
