@@ -40,7 +40,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "postgreSQL"]
    },
-   arquitectures:["clean arquitecture", "atomic design"]
+   arquitectures:["clean arquitecture", "atomic design"],
    previousOccupation: ["Frontend developer at Accenture Colombia"],
    currentOccupation: ["Software developer at Ias Software"]
 };
