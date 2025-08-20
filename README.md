@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on a project called TENKI
+🔭 I’m currently working on my updated portfolio
 
 🌱 I’m currently learning Next js 14
 
