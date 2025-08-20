@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on my updated portfolio
+🔭 I’m currently working on my updated portfolio using Astro
 
 🌱 I’m currently learning Next js 14
 
