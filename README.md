@@ -29,7 +29,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Next js", "Angular"],
-         css: ["Bootstrap", "Sass", "Tailwind css"]
+         css: ["Sass", "Tailwind css"]
       },
       Design: {
          UI: [Figma]
