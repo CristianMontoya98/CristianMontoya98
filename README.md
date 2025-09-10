@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on my updated portfolio using Astro
+🔭 I’m currently working on my updated portfolio using Astro, you can check it [here](https://cristianmontoya.netlify.app/en)
 
 🌱 I’m currently learning Next js 14
 
