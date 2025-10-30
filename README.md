@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on my updated portfolio using Astro, you can check it [here](https://cristianmontoya.netlify.app/en)
+🔭 I’m currently working on a weather web app using Astro with react.
 
 🌱 I’m currently learning Astro
 
