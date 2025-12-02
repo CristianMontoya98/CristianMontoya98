@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧔‍♂️ you can see my work on my portfolio [here](https://cristianmontoya.netlify.app/en)
+🧔‍♂️ you can see my work on my portfolio [here](https://cristianmontoya.dev/en)
 
 🔭 I’m currently working on a weather web app using Astro with react.
 
