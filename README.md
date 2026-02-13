@@ -31,7 +31,7 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML5, CSS3, Java, CSharp]
    technologies: {
       frontEnd: {
-         js: ["React", "Next js", "Angular"],
+         js: ["React", "Next js", "Angular","Astro"],
          css: ["Sass", "Tailwind css"]
       },
       Design: {
