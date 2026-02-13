@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-![This is an image](https://github.com/CristianMontoya98/CristianMontoya98/blob/main/Banner.png)
+![This is an image](https://github.com/CristianMontoya98/CristianMontoya98/blob/main/bannerCristian.png)
 
 ```javascript
 const aboutMe = {
