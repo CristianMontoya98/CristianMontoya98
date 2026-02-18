@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Astro
 
-💬 Ask me about Front-end development with react or Angular
+💬 Ask me about Front-end development with Astro, React or Angular
 <!--
 **CristianMontoya98/CristianMontoya98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
