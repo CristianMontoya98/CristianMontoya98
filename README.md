@@ -1,3 +1,5 @@
+![This is an image](https://github.com/CristianMontoya98/CristianMontoya98/blob/main/Banner%20de%20LinkedIn%20Tecnologi%CC%81a%20Abstracto%20Azul%20y%20Blanco.png)
+
 ### Hi there 👋
 
 🧔‍♂️ you can see my work on my portfolio [here](https://cristianmontoya.dev/en)
@@ -21,10 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-![This is an image](https://github.com/CristianMontoya98/CristianMontoya98/blob/main/Banner%20de%20LinkedIn%20Tecnologi%CC%81a%20Abstracto%20Azul%20y%20Blanco.png)
 
 ```javascript
 const aboutMe = {
