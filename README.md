@@ -2,7 +2,7 @@
 
 🧔‍♂️ you can see my work on my portfolio [here](https://cristianmontoya.dev/en)
 
-🔭 I’m currently working on a web page called Front Atlas
+🔭 I’m currently working on a web page called [Front Atlas](https://front-atlas.netlify.app/)
 
 🌱 I’m currently learning Astro
 
