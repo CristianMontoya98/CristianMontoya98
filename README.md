@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on a web page called [Front Atlas](https://front-atlas.netlify.app/)
 
-🌱 I’m currently learning Astro
+🌱 I’m currently learning with Astro and Angular 20
 
 💬 Ask me about Front-end development with Astro, React or Angular
 <!--
